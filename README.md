@@ -19,3 +19,9 @@
 * THEN they fall in sequential order
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
+
+## Assets
+
+The following image demonstrates the web application's appearance:
+
+![Final deployment of the web application.](./assets/hw1.png)
