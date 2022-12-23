@@ -24,4 +24,6 @@
 
 The following image demonstrates the web application's appearance:
 
-![Final deployment of the web application.](./assets/hw1.png)
+![Final deployment of the web application.](./assets/images/hw1.png)
+
+file:///C:/Users/maggi/bootcamp/hw1/index.html
