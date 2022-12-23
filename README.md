@@ -26,4 +26,7 @@ The following image demonstrates the web application's appearance:
 
 ![Final deployment of the web application.](./assets/images/hw1.png)
 
+The final application can be found with these links:
+
 file:///C:/Users/maggi/bootcamp/hw1/index.html
+https://mbatorek7.github.io/hw1/
